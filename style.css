@@ -1,0 +1,31 @@
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.box {
+  border: 10px solid black;
+  display: inline-block;
+  margin: auto;
+  max-width: 500px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  margin-bottom: 10px;
+}
+
+.title {
+  border-bottom: 5px solid gray;
+}
+
+.content {
+  margin: auto;
+  margin-top: 100px;
+  align-items: center;
+  text-align: left;
+  max-width: 700px;
+}
+
+body {
+  background-color: rgb(126, 185, 252);
+}
